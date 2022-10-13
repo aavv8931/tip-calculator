@@ -121,11 +121,7 @@ input{
 
 #tip-custom input{
     box-sizing: border-box;
-    width: 50%;
-}
-
-.tip-custom{
-    width: -webkit-fill-available;
+    width: 100%;
 }
 
 .peopleLabel{
